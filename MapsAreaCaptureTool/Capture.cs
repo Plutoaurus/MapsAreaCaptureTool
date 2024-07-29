@@ -14,7 +14,7 @@
             Altitude = altitude;
             Overlap = overlap;
             Completed = completed;
-            URL = "https://www.google.com/maps/@" + Coordinate[0] + "," + Coordinate[1] + "," + Altitude + "m/data=!3m1!1e3";
+            URL = "https://www.earth.google.com/web/@" + Coordinate[0] + "," + Coordinate[1] + "," + Altitude + "m/data=!3m1!1e3";
         }
     }
 }
